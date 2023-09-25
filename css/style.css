@@ -61,6 +61,7 @@ span.heart{
 
 
 body {
+	cursore: none;
 	background: #310404 url(https://i.ytimg.com/vi/wOvQAhzWCrM/maxresdefault.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
